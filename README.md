@@ -5,15 +5,21 @@ Table of contents-
 Introduction
  --Definition 
  --Anomaly Types
-Special anomalies
-Level shift anomaly
-Detection using rolling aggregate and double rolling aggregate
-Pattern change anomaly
-Volatility shift anomaly detector
-Anomaly detection by threshold method
-Three different methods
-Anomaly detection GENERAL CASE & METHODS
-Exploratory data analysis
+
+
+      Special anomalies
+      Level shift anomaly
+      Detection using rolling aggregate and double rolling aggregate
+      Pattern change anomaly
+      Volatility shift anomaly detector
+      Anomaly detection by threshold method
+      Three different methods
+      Anomaly detection GENERAL CASE & METHODS
+      Exploratory data analysis
+
+
+
+
 Three different approaches
 Approach 1. Move, smoothe, evaluate
     1.Rolling window estimations
